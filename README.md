@@ -1,5 +1,5 @@
 # Analysis-and-Visualization-of-Tennis-Dataset-using-Tableau
-Tableau | Excel | Data Visualization
+**Tableau | Excel | Data Visualization**
 
 This assignment aims to ensure that students understand the high-dimensional data types and format. The high-dimensional data visualisations are required using different interaction and illustration tools. This assignment mimics an analyst’s role in real life. The assignment also ensures that students understand the various visualisation techniques when dealing with other forms of high-dimensional data.
 
